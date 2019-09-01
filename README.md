@@ -7,7 +7,7 @@
 > 주최자 이외는 ABC순 입니다.
 
 - Kihwan Park (주최자)
-- Eunyeogn Kim
+- Eunyeogn Kim, [GitHub](https://github.com/unnnyong)
 - Sangho Youn
 - Sungmin Park 
 - 감정환
