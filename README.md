@@ -8,6 +8,6 @@
 
 - Kihwan Park (주최자)
 - Eunyeogn Kim, [GitHub](https://github.com/unnnyong)
-- Sangho Youn
+- Sangho Youn, [GitHub](https://github.com/angelring127)
 - Sungmin Park 
 - 감정환
