@@ -9,5 +9,5 @@
 - Kihwan Park (주최자)
 - Eunyeogn Kim, [GitHub](https://github.com/unnnyong)
 - Sangho Youn, [GitHub](https://github.com/angelring127)
-- Sungmin Park 
+- Sungmin Park, [GitHub](https://github.com/ispark323)
 - 감정환
