@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWidget3</string>
+    <string name="checkBox1">Hamburger</string>
+    <string name="checkBox2">Chicken</string>
+    <string name="checkBox3">Pizza</string>
+
+</resources>

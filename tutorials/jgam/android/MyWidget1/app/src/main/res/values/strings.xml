@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWidget1</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="textView">Textview</string>
+    <string name="ImageView">ImageView</string>
+
+
+
+</resources>
